@@ -1,0 +1,88 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #EAC926;
+
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+}
+
+
+footer {
+    text-align: center;
+
+}
+main{ 
+    padding: 10px;
+    background-color: rgb(197, 187, 187);
+}  
+
+.imagen{
+    width: 100%;
+}
+
+.banner {
+    width: 100%;
+}
+
+.burger {
+    font-size: 40px;
+    background-color: blue;
+    margin: 0 auto;
+    color: white;
+}
+
+
+
+.compra-cuotas {
+    text-align: center;
+}
+
+
+
+.precio {
+    font-size: 18px;
+
+}
+
+.descuento {
+    font-size: 16px;
+    color: rgb(11, 139, 11);
+}
+
+.titular {
+    font-size: 24px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.descripcion {
+    font-size: 16px;
+}
+
+.icono {
+    color: blue;
+}
+
+.barra {
+    text-align: left;
+}
+
+.fa-solid {
+    background-color: antiquewhite;
+
+}
+.caja-secundaria{
+    padding: 15px;
+    border-top: 1px solid #ebebeb;
+    background-color: white;
+}
+article{
+    margin: 10px;
+}
+.camion{
+    color: rgb(11, 139, 11);
+}
